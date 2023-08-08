@@ -1,0 +1,80 @@
+{
+  "id": "meu-pacotao-fvtt",
+  "title": "Meu pacotão Foundry VTT",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Vlamir Santo",
+      "discord": "vlamirsanto",
+      "email": "vlamirsanto@gmail.com",
+      "url": "https://vlamirsanto.github.io",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "label": "Meus NPCs",
+      "name": "meus-npcs",
+      "type": "Actor",
+      "system": "dnd5e",
+      "path": "packs/meus-npcs",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Meus items",
+      "name": "meus-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "path": "packs/meus-items",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Meus jornais",
+      "name": "meus-jornais",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "path": "packs/meus-jornais",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Meus mapas",
+      "name": "meus-mapas",
+      "type": "Scene",
+      "system": "dnd5e",
+      "path": "packs/meus-mapas",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Meus monstros",
+      "name": "meus-monstros",
+      "type": "Actor",
+      "system": "dnd5e",
+      "path": "packs/meus-monstros",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
