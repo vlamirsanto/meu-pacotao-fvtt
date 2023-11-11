@@ -11,7 +11,8 @@
       "name": "Vlamir Santo",
       "email": "vlamirsanto@gmail.com",
       "url": "https://vlamirsanto.github.io",
-      "discord": "vlamirsanto"
+      "discord": "vlamirsanto",
+      "flags": {}
     }
   ],
   "packs": [
@@ -24,7 +25,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "meus-items",
@@ -35,7 +37,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "meus-jornais",
@@ -46,7 +49,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "meus-mapas",
@@ -57,7 +61,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "meus-monstros",
@@ -68,7 +73,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "minhas-macros",
@@ -79,7 +85,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "minhas-aventuras",
@@ -90,7 +97,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     }
   ]
 }
