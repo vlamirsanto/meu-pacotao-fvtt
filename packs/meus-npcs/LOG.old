@@ -1,8 +1,15 @@
-2023/12/15-11:35:00.820248 30e444000 Recovering log #1076
-2023/12/15-11:35:00.820665 30e444000 Delete type=3 #1075
-2023/12/15-11:35:00.820713 30e444000 Delete type=0 #1076
-2023/12/15-11:50:20.382760 308ab7000 Level-0 table #1080: started
-2023/12/15-11:50:20.382852 308ab7000 Level-0 table #1080: 0 bytes OK
-2023/12/15-11:50:20.383036 308ab7000 Delete type=0 #1078
-2023/12/15-11:50:20.386059 308ab7000 Manual compaction at level-0 from '!actors!1GLXEDZ8G5hvaNbQ' @ 72057594037927935 : 1 .. '!folders!sqOhWtyUL3Sq0VrJ' @ 0 : 0; will stop at (end)
-2023/12/15-11:50:20.386139 308ab7000 Manual compaction at level-1 from '!actors!1GLXEDZ8G5hvaNbQ' @ 72057594037927935 : 1 .. '!folders!sqOhWtyUL3Sq0VrJ' @ 0 : 0; will stop at (end)
+2024/09/25-20:12:57.081379 30a258000 Recovering log #1959
+2024/09/25-20:12:57.081682 30a258000 Delete type=0 #1959
+2024/09/25-20:12:57.081708 30a258000 Delete type=3 #1957
+2024/09/25-20:41:05.304240 3049db000 Level-0 table #1964: started
+2024/09/25-20:41:05.315233 3049db000 Level-0 table #1964: 1205786 bytes OK
+2024/09/25-20:41:05.315491 3049db000 Delete type=0 #1962
+2024/09/25-20:41:05.316056 3049db000 Manual compaction at level-0 from '!actors!0PvrswzavaDFziDW' @ 72057594037927935 : 1 .. '!folders!sqOhWtyUL3Sq0VrJ' @ 0 : 0; will stop at (end)
+2024/09/25-20:41:05.316094 3049db000 Manual compaction at level-1 from '!actors!0PvrswzavaDFziDW' @ 72057594037927935 : 1 .. '!folders!sqOhWtyUL3Sq0VrJ' @ 0 : 0; will stop at '!actors.items.effects!biyUAZMCrOuYcMSt.RlRaurTYoLzI1G1u.potjmpJPeUA1U4oe' @ 2764 : 0
+2024/09/25-20:41:05.316099 3049db000 Compacting 1@1 + 1@2 files
+2024/09/25-20:41:05.335827 3049db000 Generated table #1965@1: 1487 keys, 1758355 bytes
+2024/09/25-20:41:05.335851 3049db000 Compacted 1@1 + 1@2 files => 1758355 bytes
+2024/09/25-20:41:05.335922 3049db000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/25-20:41:05.336015 3049db000 Delete type=2 #1964
+2024/09/25-20:41:05.336129 3049db000 Delete type=2 #1754
+2024/09/25-20:41:05.344493 3049db000 Manual compaction at level-1 from '!actors.items.effects!biyUAZMCrOuYcMSt.RlRaurTYoLzI1G1u.potjmpJPeUA1U4oe' @ 2764 : 0 .. '!folders!sqOhWtyUL3Sq0VrJ' @ 0 : 0; will stop at (end)
